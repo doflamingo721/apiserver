@@ -2,7 +2,7 @@ module github.com/rancher/apiserver
 
 go 1.19
 
-replace github.com/rancher/wrangler => github.com/doflamingo721/wrangler v1.26.5-rancher1
+replace github.com/rancher/wrangler => github.com/doflamingo721/wrangler v1.26.5-rancher2
 
 require (
 	github.com/ghodss/yaml v1.0.0
